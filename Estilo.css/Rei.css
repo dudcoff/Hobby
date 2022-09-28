@@ -1,0 +1,13 @@
+body{
+    background-image: url("imagens/Reifundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#nota{
+    background-color: #d8f3dc;
+    text-align: justify;
+    padding: 11px;
+    border-width: 4px; border-style: solid; border-color: #95d5b2; border-radius: 10px;
+}

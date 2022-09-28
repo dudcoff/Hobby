@@ -1,0 +1,10 @@
+body{
+    background-image: url("imagens/hotfundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
