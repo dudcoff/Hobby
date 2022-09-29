@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Garamond&family=DM+Serif+Display:ital@1&family=Germania+One&family=Joan&family=Macondo&family=Passions+Conflict&family=Playball&family=Playfair+Display+SC&family=Playfair+Display:wght@600&family=Quicksand&display=swap');
+
 body{
     background-image: url("https://i.pinimg.com/originals/ef/2e/9e/ef2e9e28ee33b7eac7d47284cf28b176.png");
     background-size: cover;
@@ -9,14 +11,16 @@ body{
 h1, p{
     color: white;
     text-align: justify;
+    font-family: 'Macondo', cursive;
 }
 
 .perfil{
     border-radius: 55%;
     border-width: 8px;
-    border-style:unset;
-    border-color: #52b788  
-    border: 1px solid #333; box-shadow: 0 0 8px 5px #07713f ;
+    border-style: unset;
+    border-color: #a093db;  
+    border: 1px solid #333; 
+    box-shadow: 0 0 8px 5px #5e32b1 ;
 }
 
 .flex {
@@ -25,15 +29,31 @@ h1, p{
     flex-direction: row;
 }
 
-.pontinho{
-   font-size: 30px;
-   /* DEIXAR A FONTE JUSTIFICADA E NO MEIO */
+.ponto{
+   font-size: 50px;
 }
 
 .img{
-   /* DIMINUIR A IMAGEM */
     gap: 30Spx;
     justify-content: center;
     position:relative;
     text-align: center;
+
+    display: inline-block;
+    height: 500px;
+    width: 500px; 
 }
+
+.creditosTexto {
+    margin-left: 100px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.nave {
+    background-color: rgb(75, 59, 148);
+  }

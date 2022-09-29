@@ -1,6 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Garamond&family=DM+Serif+Display:ital@1&family=Germania+One&family=Joan&family=Macondo&family=Passions+Conflict&family=Playball&family=Playfair+Display+SC&family=Playfair+Display:wght@600&family=Quicksand&display=swap');
+
 body{
-    background-image: url("imagens/Vinfundo.png");
+    background-image: url("/imagens/Vinfundo.png");
     background-size: cover;
     background-repeat: no-repeat;;
     text-align: center;
     }
+
+  h2{
+    font-family: 'Germania One', cursive;
+    font-size: 3rem;
+    color:azure;
+  }
+.cima{
+    font-family: 'Cinzel', serif;
+    color: rgb(255, 255, 255);
+  }
+
+.baixo{
+    font-family: 'Cinzel', serif;
+    color:azure;
+  }
+
+  a {
+    color: white;
+}
+
+.nave {
+    background-color: rgb(105, 120, 126);
+  }

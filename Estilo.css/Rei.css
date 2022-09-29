@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Garamond&family=DM+Serif+Display:ital@1&family=Germania+One&family=Joan&family=Macondo&family=Passions+Conflict&family=Playball&family=Playfair+Display+SC&family=Playfair+Display:wght@600&family=Quicksand&display=swap');
+
 body{
-    background-image: url("imagens/Reifundo.png");
+    background-image: url("/imagens/Reifundo.png");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -9,5 +11,32 @@ body{
     background-color: #d8f3dc;
     text-align: justify;
     padding: 11px;
+    font-size: 1.1rem;
     border-width: 4px; border-style: solid; border-color: #95d5b2; border-radius: 10px;
 }
+
+h2{
+    font-family: 'DM Serif Display', serif;
+    font-size: 2.5rem;
+    color: #d8f3dc;
+}
+
+.cima{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.3rem;
+    color: rgb(148, 223, 215)
+}
+
+.baixo{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 1.3rem;
+    color: rgb(2, 24, 23)
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+.nave {
+    background-color: #91cef1;
+  }

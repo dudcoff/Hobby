@@ -1,8 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Garamond&family=DM+Serif+Display:ital@1&family=Germania+One&family=Joan&family=Macondo&family=Passions+Conflict&family=Playball&family=Playfair+Display+SC&family=Playfair+Display:wght@600&family=Quicksand&display=swap');
+
 body{
-    background-image: url("imagens/tdfundo.png");
+    background-image: url("/imagens/tdfundo.png");
     background-repeat: no-repeat;
 
     background-size: cover;
     text-align: center;
 }
 
+h2{
+    font-family: 'Passions Conflict', cursive;
+    font-size: 4.5rem;
+}
+
+p{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2rem;
+}
+
+a {
+    color: rgb(104, 26, 26);
+}
+
+.nave {
+    font-weight: bolder;
+}
