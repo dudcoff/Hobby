@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Garamond&family=DM+Serif+Display:ital@1&family=Germania+One&family=Joan&family=Macondo&family=Passions+Conflict&family=Playball&family=Playfair+Display+SC&family=Playfair+Display:wght@600&family=Quicksand&display=swap');
 
 body{
-    background-image: url("/imagens/hotfundo.png");
+    background-image: url("../imagens/hotfundo.png");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
